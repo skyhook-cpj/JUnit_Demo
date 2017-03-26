@@ -13,6 +13,7 @@ public class App
     
     public int addition(int a, int b)
     {
+    	// Added a comment
     	return a + b + 2;
     }
 }
