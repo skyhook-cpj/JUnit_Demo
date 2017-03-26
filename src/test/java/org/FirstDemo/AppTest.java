@@ -10,6 +10,7 @@ public class AppTest {
 	@Test
 	public void testAddition()
 	{
+		System.out.println("Result is" + app.addition(2, 5));
 		Assert.assertEquals(app.addition(2, 5), 7);
 	}
 }
