@@ -8,8 +8,7 @@ public class testCalc {
 
 	@Test
 	public void test() {
-		
+		//Comment
 		fail("Not yet implemented");
 	}
-
 }
